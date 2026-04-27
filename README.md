@@ -1,6 +1,3 @@
-# Revision-Projects-Pytorch-Sklearn-CNN-Classification-Regression
----
----
 # ML Portfolio — Beginner Projects
 
 Three end-to-end machine learning projects built from scratch as part of a structured progression toward Edge/Embedded ML Engineering. Each project was implemented independently — no tutorial code was followed. All decisions around architecture, preprocessing, and evaluation were made from first principles.
